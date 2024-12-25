@@ -24,7 +24,7 @@ options:
   remote_ip_address: "127.0.0.1"
   remote_port: 6000
   remote_forwarding: []
-  other_ssh_options: '-v -N'
+  other_ssh_options: '-N'
   force_keygen: false
 schema:
   hostname: str
